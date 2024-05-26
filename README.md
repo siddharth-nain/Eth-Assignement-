@@ -1,4 +1,4 @@
-﻿# Eth_Assignment
+
 # Start
 This Solidity program is a simple program that demonstrates the basic contract structure provides a solid foundation for a token with minting and burning capabilities in the Solidity programming language. The purpose of this program is to serve as a starting point for those who are new to Solidity and want to get a feel for how token minting and burning occurs.
 
